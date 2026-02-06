@@ -1,6 +1,6 @@
 <div align="center">
 
-# VOID
+# Void
 
 **3D Interactive AI Chat Interface**
 
